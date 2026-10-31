@@ -1,0 +1,32 @@
+{
+  "score": 73,
+  "issues": [
+    {
+      "type": "warning",
+      "message": "Title too short (4 chars). Aim for 50-60 characters."
+    },
+    {
+      "type": "error",
+      "message": "Missing meta description"
+    },
+    {
+      "type": "error",
+      "message": "Missing <h1> heading"
+    },
+    {
+      "type": "info",
+      "message": "No canonical URL specified"
+    }
+  ],
+  "passed": [
+    "Open Graph meta tags present",
+    "Viewport meta tag present",
+    "Language attribute set"
+  ],
+  "meta": {
+    "title": "D'oh",
+    "description": null,
+    "canonical": null,
+    "ogImage": null
+  }
+}
